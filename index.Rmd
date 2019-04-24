@@ -381,7 +381,7 @@ border-radius: 5px;
 <p class="comment">
 Venue rental fee: to be confirmed</p>
 
-### Mamarosa Beach
+### Mamarosa Beach (activity + dinner)
 
 Idyllically located in front of the beach, in the basement of the Hotel W Barcelona, Mamarosa Beach is an ideal option at any time.
 
@@ -404,6 +404,19 @@ border-radius: 5px;
 
 <p class="comment">
 **Cocktail menu including drinks from 48,75€ VAT inc**</p>
+
+
+<style>
+p.comment {
+background-color: #ffcc99;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+</style>
+
+<p class="comment">
+**Venue rental from 17.00h to 19.00h to organize the activity: 1000€ VAT inc** // no drinks included during the activity</p>
 
 ****
 
