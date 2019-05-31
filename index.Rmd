@@ -31,7 +31,7 @@ library(knitr)
 ```
 
 
-## Accommodation
+## Accommodation 🏨
 
 ### **Confirmed: Hotel Barcelona Princess**
 
@@ -102,7 +102,7 @@ border-radius: 5px;
 </style>
 
 <p class="comment">
-The cost of the activity  would be a minimum of 25€ per person, including the box, the gifts to be put inside, and the 6€ donation (mandatory).</p>
+The cost of the activity  would be a minimum of 25€ per person, including the box, the gifts to be put inside - 6€ donation (mandatory).</p>
 
 <style>
 p.comment {
